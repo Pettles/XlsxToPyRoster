@@ -11,9 +11,9 @@ Instructions to get the 'processRoster.py' to execute:
 - MAILSERVER = The mail server to send outbound emails from
 - FROMEMAIL = The address to send outbound emails from
 - MAILRECIPS = Dictionary of Member headers of roster to check against
-- # Key: Column header of staff member (e.g. 'Pettles')
-- # Value: Email address to send result to for that member (e.g. pettles@github.com)
-- # e.g. {'Pettles':'pettles@github.com','Kevin':'kevin@example.com'}
+-   Key: Column header of staff member (e.g. 'Pettles')
+-   Value: Email address to send result to for that member (e.g. pettles@github.com)
+-   e.g. {'Pettles':'pettles@github.com','Kevin':'kevin@example.com'}
 
 If running automatically (via cron/event/init/task scheduler):
 - Unhash and set AUTHUSER, AUTHPASS globals (Hard-coding to be removed in a future update)
