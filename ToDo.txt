@@ -1,0 +1,29 @@
+- Remove __getTime from the Shifts.py class
+--> This should now already be getting parsed a datetime object
+
+- COLLAPSE METHODS so that they use arrays? e.g.
+####################
+--> This will allow multiple functions to be used for the same thing.
+--> E.g.
+- method(name)
+--> Can get the desired date for one name, or
+- method([array,of,names])
+--> Can get the desired date for each period
+- method()
+--> Can get the desired date for all columns in roster
+###################
+--> Would be able to remove some duplicate functions that work for all staff/single staff
+--> Would then allow all functions to be usable in a batch. e.g. Get shifts for 2/5 of the staff of shift
+
+- Add PUBLIC functions to UPDATE the data
+--> Change the Shift for an individual
+--> Change a range of shifts for an individual
+--> Both of the above for multiple or all staff
+
+- Add functions to OUTPUT modified Python object back to CSV
+- Add functions to OUTPUT object into other formats (e.g. Google Calendar CSV formats)
+
+- Break it and add further exception handling
+--> Non-existent name parsed (KeyError)
+--> Number instead of string, etc.
+--> No file found

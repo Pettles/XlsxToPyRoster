@@ -1,0 +1,721 @@
+Date,Kevin,Barry,Samantha,James,Terrence,Dave,Chris,Vicky,Oswald,Taylor,Norman,Elsa,Kevin J,Manager
+42978,Night,,Day8,Off,Off,Off,Off,,Night,Off,sick,Day8,D,D
+42979,Night,,sick,Off,Off,Off,Off,,Night,Off,Off,Day8,D,D
+42980,Night,,Off,Off,Ann Lve,Off,Day,,Night,Off,Off,Off,Off,Off
+42981,Night,,Off,Off,Ann Lve,Grave,Ann Lve,,Off,Day,Off,Off,Off,Off
+42982,Off,,Day8,Ann Lve,Night,Grave,Day,,Off,Day,Off,Day8,D,Ann Lve
+42983,Off,,Day8,Ann Lve,Night,Grave,Day,,Off,Day,Night,Day8,D,Ann Lve
+42984,Off,,Day8,Ann Lve,Off,Ann Lve,Off,,Off,Day,sick,Day8,D,Ann Lve
+42985,Off,,Day8,Night,Off,Ann Lve,Off,,Day,Off,sick,Day8,D,Ann Lve
+42986,Day,,Day8,Off,Off,Off,Off,,Day,Off,Night,Day8,D,Ann Lve
+42987,Day,,Off,Off,Off,Off,Off,,Day,Off,Off,Off,Off,Off
+42988,Day,,Off,Off,Night,Off,Day,,Day,Off,Off,Off,Off,Off
+42989,Day,,Day8,Off,Night,Morning,Day,,Off,Day,Off,Day8,D,Ann Lve
+42990,Off,,Day8,Night,Night,Morning,Day,,Off,sick,Off,Day8,D,Ann Lve
+42991,Off,,Day8,Night,Night,Morning,Day,,Off,Day,Night,Day8,D,Ann Lve
+42992,Off,,Morning,Night,Off,Morning,Off,,Off,Day,Night,Day8,D,Ann Lve
+42993,Off,,Morning,Night,Off,Morning,Off,,Day,Off,Night,Day8,D,Ann Lve
+42994,Ann Lve,,Off,Off,Off,Off,Off,,Day,Off,Night,Off,Off,Off
+42995,Ann Lve,,Off,Off,Off,Off,Off,,Day,Off,Off,Off,Off,Off
+42996,Ann Lve,,Off,Off,Day,Off,Night,,Day,Off,Off,Day8,Ann Lve,D
+42997,Ann Lve,,Evening,Off,Day,Morning,Night,,Off,Night,Off,Day8,Ann Lve,D
+42998,Off,,Evening,Day,Day,Morning,Night,,Off,Night,Off,Day8,Ann Lve,D
+42999,Off,,Evening,Day,Day,Morning,Night,,Off,Night,Day,Day8,Ann Lve,D
+43000,Off,,Evening,Day,Off,sick,Off,,Off,Night,Day,Day8,Ann Lve,D
+43001,Off,,Evening,sick,Off,sick,Off,,Day,Off,Day,Off,Off,Off
+43002,Off,,Off,Off,Off,Off,Off,,Day,Off,Day,Off,Off,Off
+43003,Night,,Off,Off,Off,Off,Off,,Day,Off,Off,Off,Off,Off
+43004,Night,,Off,Off,Day,Off,Night,,Day,Off,Off,Ann Lve,Ann Lve,D
+43005,Night,,Evening,Off,Day,Evening,Night,,Off,Night,Off,Day8,Ann Lve,D
+43006,Off,,Evening,sick,Day,Evening,Night,,Off,Night,Off,Day8,Ann Lve,D
+43007,Off,,Evening,Day,Day,Evening,Night,,Off,Night,Ann Lve,Day8,Ann Lve,D
+43008,Off,,Evening,Day,Off,Evening,Off,,Off,Night,Ann Lve,Off,Off,Off
+43009,Off,,Evening,Day,Off,Evening,Off,,Off,Off,Ann Lve,Off,Off,Off
+43010,Ann Lve,,Off,Off,Off,Off,Off,,Day,Off,Ann Lve,Day8,Ann Lve,D
+43011,Night,,Off,Off,Off,Off,Off,,Day,Off,Off,Day8,Ann Lve,D
+43012,sick,,Off,Off,Ann Lve,Off,Night,,Day,Off,Off,Day8,Ann Lve,D
+43013,Ann Lve,,Grave,Off,Ann Lve,Evening,Night,,Off,Day,Off,Day8,Ann Lve,D
+43014,Off,,Grave,Night,Ann Lve,Evening,Night,,Off,Day,Off,Day8,D,D
+43015,Off,,Grave,Night,Ann Lve,Evening,SS Off,,Off,Day,Ann Lve,Off,Off,Off
+43016,Off,,Grave,Night,Off,Evening,Off,,Day,SS Off,Ann Lve,Off,Off,Off
+43017,Off,,Grave,Night,Off,Evening,Off,,Day,Off,Ann Lve,Day8,D,D
+43018,sick,,Off,Off,Off,Off,Off,,Day,Off,Ann Lve,Day8,D,D
+43019,Day,,Off,Off,Off,Off,Off,,Day,Off,Off,Day8,D,D
+43020,Morning,,Off,SS Off,Ann Lve,Off,Ann Lve,,Day,Day,Off,Day8,Off,D
+43021,Off,,Morning,Off,Ann Lve,Evening,Ann Lve,,SS Off,Day,Off,Day8,Off,D
+43022,Off,,Morning,Grave,Ann Lve,Ann Lve,Ann Lve,,Off,Day,SS Off,Off,Grave,Off
+43023,Off,,Morning,Grave,Off,Ann Lve,Ann Lve,,Off,Ann Lve,Day,Off,Grave,Off
+43024,Morning,,Morning,Grave,Off,Evening,Off,,Off,Off,Day,Day8,sick,D
+43025,Morning,,Morning,Grave,Off,Evening,Off,,Off,Off,sick,Day8,Grave,D
+43026,Morning,,Off,Grave,Off,Off,Off,,Day,Off,Off,Day8,Grave,D
+43027,Morning,,Off,Off,Grave,Off,Off,,Day,Off,Off,Day8,SS Off,D
+43028,Morning,,Off,Off,Grave,Off,Ann Lve,,Day,Ann Lve,Off,Day8,SS Off,D
+43029,Off,,Morning,Off,Grave,Ann Lve,Ann Lve,,Day,Ann Lve,Off,Off,Off,Off
+43030,Off,,Morning,Off,Grave,Ann Lve,Ann Lve,,Off,Ann Lve,sick,Off,Off,Off
+43031,Off,,Morning,Off,Grave,Morning,Ann Lve,,Off,sick,Day,Day8,Grave,D
+43032,Evening,,Morning,Morning,Off,Morning,Off,,Off,Off,Day,Day8,Grave,D
+43033,Ann Lve,,Morning,Morning,Off,Morning,Off,,Off,Off,Day,Day8,Grave,D
+43034,Ann Lve,,Off,Morning,Off,Off,Off,Day8,Ann Lve,Off,Off,Day8,Grave,D
+43035,Ann Lve,,Off,Morning,Grave,Off,Off,Day8,Ann Lve,Off,Off,Day8,Grave,D
+43036,Ann Lve,,Off,Ann Lve,Grave,Off,Off,Off,Ann Lve,Night,Off,Off,Off,Off
+43037,Off,,Evening,Off,Grave,Morning,Off,Off,Ann Lve,Night,Off,Off,Off,Off
+43038,Off,,Evening,Off,sick,Morning,Ann Lve,Day8,Off,Night,Night,Day8,D,D
+43039,Off,,Evening,Off,Off,Morning,Day,Day8,Off,Night,Night,Day8,D,D
+43040,Evening,,Evening,Morning,Off,Morning,Day,Day8,Off,Off,Night,Day8,D,D
+43041,Evening,,Evening,Morning,Off,Morning,Day,Day8,Off,Off,Night,Day8,D,D
+43042,Evening,,Off,Morning,Morning,Off,Off,Day8,Ann Lve,Off,Off,Day8,D,D
+43043,Evening,,Off,Morning,Morning,Off,Off,Off,Ann Lve,Off,Off,Off,Off,Off
+43044,Evening,,Off,Morning,Morning,Off,Off,Off,Ann Lve,Off,Off,Off,Off,Off
+43045,Off,,Evening,Off,Morning,Morning,Off,Day8,Ann Lve,Night,Off,Day8,D,D
+43046,Off,,Evening,Off,Morning,Ann Lve,Day,Day8,Off,Night,Night,Day8,SS Off,D
+43047,Off,,Evening,Off,Off,Morning,Day,Day8,Off,Night,Night,Day8,D,D
+43048,Grave,,Evening,Evening,Off,Morning,Day,Day8,Off,Off,Night,Day8,D,D
+43049,sick,,Evening,Evening,Off,Morning,Day,Day8,Off,Off,Night,Day8,D,D
+43050,sick,,Off,Evening,Morning,Off,Off,Off,Day,Off,Off,Off,Off,Off
+43051,sick,,Off,Evening,Morning,Off,Off,Off,Day,Off,Off,Off,Off,Off
+43052,sick,,Off,Evening,Morning,Off,Off,Day8,Day,Day,Off,Day8,D,D
+43053,Off,,Grave,Off,Morning,Evening,Off,Day8,sick,Day,Off,Day8,D,D
+43054,Off,,Grave,Off,Morning,Evening,Night,Day8,Off,Day,Day,Day8,D,D
+43055,Off,,Grave,Off,Off,Evening,Night,Day8,Off,Day,Day,Day8,D,D
+43056,Grave,,Grave,Evening,Off,Evening,Ann Lve,Day8,Off,Off,Day,Day8,D,D
+43057,Grave,,Grave,Evening,Off,Evening,Ann Lve,Off,Off,Off,Day,Off,Off,Off
+43058,Grave,,Off,Evening,Evening,Off,Off,Off,Day,Off,Off,Off,Off,Off
+43059,Grave,,Off,Evening,Evening,Off,Off,Day8,Day,Off,Off,Day8,D,D
+43060,Grave,,Off,Evening,Evening,Off,Off,Day8,SS Off,Day,Off,Day8,D,D
+43061,Off,,Grave,Off,Evening,Evening,Off,Day8,Ann Lve,Day,Off,Day8,D,D
+43062,Off,,Grave,Off,Evening,Evening,Night,Day8,Off,Day,Day,Day8,D,D
+43063,Off,,Grave,Off,Off,Evening,Night,Day8,Off,Day,Day,Day8,D,D
+43064,Morning,,Grave,Ann Lve,Off,Evening,Night,Off,Off,Off,Day,Off,Off,Off
+43065,Morning,,Grave,Ann Lve,Off,Evening,Night,Off,Off,Off,Day,Off,Off,Off
+43066,Morning,,Off,Grave,Evening,Off,Off,Day8,Night,Off,Off,Day8,D,D
+43067,Morning,,Off,Grave,Evening,Off,Off,Day8,Night,Off,Off,Day8,D,D
+43068,Morning,,Off,Grave,Evening,Off,Off,Day8,Night,Night,Off,Day8,D,D
+43069,Off,,Morning,Off,Evening,Grave,Off,Day8,Night,Night,Off,Day8,D,D
+43070,Off,,Morning,Off,Evening,Grave,Day,Day8,Off,Ann Lve,Night,Day8,D,D
+43071,Off,,Morning,Off,Off,Grave,Day,Off,Off,Ann Lve,Night,Off,Off,Off
+43072,Morning,,Morning,Ann Lve,Off,Grave,Day,Off,Off,Off,Night,Off,Off,Off
+43073,Morning,,Morning,Grave,Off,Grave,Day,Day8,Off,Off,Night,Day8,Ann Lve,D
+43074,Morning,,Off,Grave,Evening,Off,Off,Day8,Night,Off,Off,Day8,D,D
+43075,Morning,,Off,Grave,Evening,Off,Off,Day8,Night,Off,Off,Day8,D,D
+43076,Morning,,Off,Grave,Evening,Off,Off,Morning,Night,Night,Off,Day8,D,D
+43077,Off,,Morning,Off,Evening,Grave,Off,Morning,Night,Night,Off,Day8,D,D
+43078,Off,,Morning,Off,Evening,Ann Lve,Day,Off,Off,Night,Night,Off,Off,Off
+43079,Off,,sick,Off,Off,Grave,Day,Off,Off,Night,Night,Off,Off,Off
+43080,Evening,,Morning,Ann Lve,Off,Grave,Day,Off,Off,Off,Night,Day8,D,Ann Lve
+43081,Evening,,Morning,Morning,Off,Ann Lve,Day,Off,Off,Off,Night,Day8,D,Ann Lve
+43082,Evening,,Off,Morning,Morning,Off,Off,Evening,Day,Off,Off,Day8,D,Ann Lve
+43083,sick,,Off,Morning,Morning,Off,Off,Evening,Day,Off,Off,Day8,D,Ann Lve
+43084,Ann Lve,,Off,Morning,Morning,Off,Off,Evening,Day,Day,Off,Day8,D,Ann Lve
+43085,Off,,Evening,Off,Morning,Morning,Off,Evening,Day,Day,Off,Off,Off,Off
+43086,Off,,Evening,Off,Morning,Morning,Off,Evening,Off,Day,Day,Off,Off,Off
+43087,Off,,Evening,Off,Off,Morning,Night,Off,Off,Day,Ann Lve,Day8,D,D
+43088,Ann Lve,,Evening,Morning,Off,Ann Lve,Night,Off,Off,Off,Day,Day8,D,D
+43089,Ann Lve,,Evening,Morning,Off,Ann Lve,Night,Off,Off,Off,Day,Day8,D,D
+43090,Ann Lve,Day8,Off,Morning,Morning,Off,Off,Evening,Day,Off,Off,Day8,D,D
+43091,Ann Lve,Day8,Off,Morning,Morning,Off,Off,Evening,Day,Off,Off,Day8,D,D
+43092,Ann Lve,Off,Off,Morning,Morning,Off,Off,Evening,Day,Day,Off,Off,Off,Off
+43093,Off,Off,Evening,Off,Morning,Ann Lve,Night,Evening,Day,Day,Off,Off,Off,Off
+43094,Off,Off,Evening,Off,Morning,Ann Lve,Night,Evening,Off,Day,Off,Off,Off,Off
+43095,Off,Off,Evening,Off,Off,Ann Lve,Night,Off,Off,Day,Day,Off,Off,Off
+43096,Grave,Day8,Evening,Morning,Off,Ann Lve,Night,Off,Off,Off,Day,Ann Lve,D,Ann Lve
+43097,Grave,Day8,Evening,Morning,Off,Ann Lve,Off,Off,Off,Off,Day,Ann Lve,D,Ann Lve
+43098,Grave,Day8,Off,Morning,Evening,Off,Off,Grave,Night,Off,Ann Lve,Ann Lve,D,Ann Lve
+43099,Grave,Off,Off,Ann Lve,Evening,Off,Off,Grave,Night,Off,Off,Off,Off,Off
+43100,Grave,Off,Off,Morning,Evening,Off,Off,Grave,Night,Off,Off,Off,Off,Off
+43101,Off,Off,Grave,Off,Evening,Ann Lve,Off,Grave,Night,sick,Off,Off,Off,Off
+43102,Off,Day8,Grave,Off,Evening,Ann Lve,Ann Lve,Grave,Off,Night,Ann Lve,Day8,D,D
+43103,Off,Day8,Grave,Off,Off,Ann Lve,Day,Off,Off,Night,Ann Lve,Day8,D,D
+43104,Grave,Day8,Grave,Morning,Off,Ann Lve,Day,Off,Off,Off,Ann Lve,Day8,D,D
+43105,Grave,Day8,Grave,Morning,Off,Ann Lve,Day,Off,Off,Off,Ann Lve,Day8,D,D
+43106,Grave,Off,Off,Morning,Evening,Off,Off,Grave,Night,Off,Off,Off,Off,Off
+43107,Grave,Off,Off,Morning,Evening,Off,Off,Grave,Night,Off,Off,Off,Off,Off
+43108,Grave,sick,Off,Morning,Evening,Off,Off,Grave,Night,Night,Off,Day8,D,sick
+43109,Off,sick,Grave,Off,Evening,Ann Lve,Off,Grave,sick,Night,Off,Day8,D,D
+43110,Off,Day8,Grave,Off,Evening,Ann Lve,Day,Grave,Off,Night,Night,sick,D,D
+43111,Off,Day8,Grave,Off,Off,Ann Lve,Day,Off,Off,Night,Night,Day8,sick,D
+43112,Morning,Day8,Grave,Ann Lve,Off,Ann Lve,Ann Lve,Off,Off,Off,Night,Day8,sick,D
+43113,Morning,Off,Ann Lve,Ann Lve,Off,Ann Lve,Ann Lve,Off,Off,Off,Night,Off,Off,Off
+43114,Morning,Off,Off,Grave,Grave,Off,Off,Morning,Day,Off,Off,Off,Off,Off
+43115,Morning,Day8,Off,Grave,Grave,Off,Off,Morning,Day,Off,Off,Day8,D,sick
+43116,Morning,Day8,Off,Grave,Grave,Off,Off,Morning,Day,Day,Off,Day8,D,D
+43117,Off,Day8,Morning,Off,Grave,sick,Off,Morning,Day,Day,Off,Day8,D,D
+43118,Off,Day8,Morning,Off,Ann Lve,sick,Night,Morning,Off,Day,Day,Day8,D,D
+43119,Off,Day8,Morning,Off,Off,Evening,Night,Off,Off,Day,Day,Day8,D,D
+43120,Morning,Off,Morning,sick,Off,Ann Lve,Night,Off,Off,Off,Day,Off,Off,Off
+43121,Morning,Off,Morning,Grave,Off,Evening,Night,Off,Off,Off,Day,Off,Off,Off
+43122,Morning,Day8,Off,Grave,Off,Off,Off,Morning,Day,Off,Off,Day8,D,D
+43123,Morning,Day8,Off,Grave,Grave,Off,Off,Morning,Day,Off,Off,Day8,D,D
+43124,Ann Lve,Day8,Off,Grave,Grave,Off,Off,Morning,Day,Day,Off,Day8,D,D
+43125,Off,Day8,Morning,Off,Grave,Evening,Off,Morning,Day,Day,Off,Day8,D,D
+43126,Off,Off,Morning,Off,Grave,Evening,Night,Morning,Off,Day,Day,Off,Off,Off
+43127,Off,Off,Morning,Off,Grave,Evening,Night,Off,Off,Day,Day,Off,Off,Off
+43128,Evening,Off,Morning,Ann Lve,Off,Evening,Night,Off,Off,Off,Day,Off,Off,Off
+43129,Evening,Day8,Morning,Morning,Off,Evening,Night,Off,Off,Off,Day,Day8,D,D
+43130,Evening,Day8,Off,Morning,Off,Off,Off,Off,Night,Off,Off,Day8,D,D
+43131,Evening,Day8,Off,Morning,Morning,Off,Off,Night,Night,Off,Off,Day8,D,D
+43132,Evening,Morning,Off,Morning,Morning,Off,Off,Night,Night,Night,Off,Day8,D,D
+43133,Off,Morning,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,Day8,D,D
+43134,Off,Morning,Evening,Off,Morning,Morning,Day,Off,Off,Night,Night,Off,Off,Off
+43135,Off,Off,Evening,Off,Off,Morning,Day,Off,Off,Night,Night,Off,Off,Off
+43136,Evening,Off,Evening,Morning,Off,Morning,Day,Off,Off,Off,Night,Day8,D,D
+43137,Evening,Off,Evening,Morning,Off,Morning,Day,Night,Off,Off,Night,Day8,D,D
+43138,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,Day8,D,D
+43139,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,Day8,D,D
+43140,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Day,Off,Day8,D,D
+43141,Off,Evening,Grave,Off,Morning,Morning,Off,Off,Day,Day,Off,Off,Off,Off
+43142,Off,Evening,Grave,Off,Morning,Morning,Day,Off,Off,Day,Off,Off,Off,Off
+43143,Off,Off,Grave,Off,Off,Morning,Day,Off,Off,Day,Night,Day8,D,D
+43144,Grave,Off,Grave,Evening,Off,Morning,Day,Night,Off,Off,Night,Day8,D,D
+43145,Grave,Off,Grave,Evening,Off,Morning,Day,Night,Off,Off,Night,Day8,D,D
+43146,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Ann Lve,Off,Off,Day8,D,D
+43147,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Ann Lve,Off,Off,Day8,D,D
+43148,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Ann Lve,Day,Off,Off,Off,Off
+43149,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Ann Lve,Day,Off,Off,Off,Off
+43150,Off,Grave,Grave,Off,Evening,Evening,Ann Lve,Off,Off,Day,Day,Day8,D,D
+43151,Off,Off,Grave,Off,Off,Evening,Ann Lve,Night,Off,Day,Day,Day8,D,D
+43152,Grave,Off,Grave,Evening,Off,Evening,Ann Lve,Night,Off,Off,Day,Day8,D,D
+43153,Grave,Off,Grave,Evening,Off,Evening,Ann Lve,Night,Off,Off,Day,Day8,D,D
+43154,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Ann Lve,Off,Off,Day8,D,D
+43155,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Ann Lve,Off,Off,Off,Off,Off
+43156,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Ann Lve,Day,Off,Off,Off,Off
+43157,Off,Grave,Morning,Off,Evening,Evening,Off,Off,Ann Lve,Day,Off,Day8,D,D
+43158,Off,Grave,Morning,Off,Evening,Evening,Night,Off,Off,Day,Day,Day8,D,D
+43159,Off,Off,Morning,Off,Off,Evening,Night,Night,Off,Day,Day,Day8,D,D
+43160,Morning,Off,Morning,Grave,Off,Evening,Night,Night,Off,Off,Day,Day8,D,D
+43161,Morning,Off,Morning,Grave,Off,Evening,Night,Night,Off,Off,Day,Day8,D,D
+43162,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,Off,Off,Off,Off
+43163,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,Off,Off,Off
+43164,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Night,Off,Off,Off,Off
+43165,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,Day8,D,D
+43166,Off,Morning,Morning,Off,Grave,Grave,Day,Off,Off,Night,Night,Day8,D,D
+43167,Off,Off,Morning,Off,Off,Grave,Day,Night,Off,Night,Night,Day8,D,D
+43168,Morning,Off,Morning,Grave,Off,Grave,Day,Night,Off,Off,Night,Day8,D,D
+43169,Morning,Off,Morning,Grave,Off,Grave,Day,Night,Off,Off,Night,Off,Off,Off
+43170,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Off,Off,Off,Off,Off,Off
+43171,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,Day8,D,D
+43172,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Night,Off,Day8,D,D
+43173,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,Day8,D,D
+43174,Off,Morning,Morning,Off,Grave,Grave,Day,Off,Off,Night,Night,Day8,D,D
+43175,Off,Off,Morning,Off,Off,Grave,Day,Night,Off,Night,Night,Day8,D,D
+43176,Evening,Off,Morning,Morning,Off,Grave,Day,Night,Off,Off,Night,Off,Off,Off
+43177,Evening,Off,Morning,Morning,Off,Grave,Day,Night,Off,Off,Night,Off,Off,Off
+43178,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,Day8,D,D
+43179,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Off,Off,Day8,D,D
+43180,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Day,Off,Day8,D,D
+43181,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Day,Day,Off,Day8,D,D
+43182,Off,Evening,Evening,Off,Morning,Morning,Night,Off,Off,Day,Day,Day8,D,D
+43183,Off,Off,Evening,Off,Off,Morning,Night,Night,Off,Day,Day,Off,Off,Off
+43184,Evening,Off,Evening,Morning,Off,Morning,Night,Night,Off,Off,Day,Off,Off,Off
+43185,Evening,Off,Evening,Morning,Off,Morning,Night,Night,Off,Off,Day,Day8,D,D
+43186,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,Day8,D,D
+43187,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Off,Off,Day8,D,D
+43188,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Day,Off,Day8,D,D
+43189,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Day,Day,Off,Off,Off,Off
+43190,Off,Evening,Evening,Off,Morning,Morning,Night,Off,Off,Day,Day,Off,Off,Off
+43191,Off,Off,Evening,Off,Off,Morning,Night,Night,Off,Day,Day,Off,Off,Off
+43192,Grave,Off,Evening,Evening,Off,Morning,Night,Night,Off,Off,Day,Off,Off,Off
+43193,Grave,Off,Evening,Evening,Off,Morning,Night,Night,Off,Off,Day,Day8,D,D
+43194,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,Off,Day8,D,D
+43195,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Off,Off,Day8,D,D
+43196,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Night,Off,Day8,D,D
+43197,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,Off,Off,Off
+43198,Off,Grave,Grave,Off,Evening,Evening,Day,Off,Off,Night,Off,Off,Off,Off
+43199,Off,Off,Grave,Off,Off,Evening,Day,Night,Off,Night,Night,Day8,D,D
+43200,Grave,Off,Grave,Evening,Off,Evening,Day,Night,Off,Off,Night,Day8,D,D
+43201,Grave,Off,Grave,Evening,Off,Evening,Day,Night,Off,Off,Night,Day8,D,D
+43202,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,Off,Day8,D,D
+43203,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Off,Off,Day8,D,D
+43204,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Night,Off,Off,Off,Off
+43205,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,Off,Off,Off
+43206,Off,Grave,Grave,Off,Evening,Evening,Day,Off,Off,Night,Night,Day8,D,D
+43207,Off,Off,Grave,Off,Off,Evening,Day,Night,Off,Night,Night,Day8,D,D
+43208,Morning,Off,Grave,Grave,Off,Evening,Day,Night,Off,Off,Night,Day8,D,D
+43209,Morning,Off,Grave,Grave,Off,Evening,Day,Night,Off,Off,Night,Day8,D,D
+43210,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Day,Off,Off,Day8,D,D
+43211,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Off,Off,Off,Off,Off
+43212,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Day,Off,Off,Off,Off
+43213,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Day,Day,Off,Day8,D,D
+43214,Off,Morning,Morning,Off,Grave,Grave,Night,Off,Off,Day,Day,Day8,D,D
+43215,Off,Off,Morning,Off,Off,Grave,Night,Night,Off,Day,Day,Off,Off,Off
+43216,Morning,Off,Morning,Grave,Off,Grave,Night,Night,Off,Off,Day,Day8,D,D
+43217,Morning,Off,Morning,Grave,Off,Grave,Night,Night,Off,Off,Day,Day8,D,D
+43218,Morning,Ann Lve,Off,Grave,Grave,Off,Off,Night,Day,Off,Off,Off,Off,Off
+43219,Morning,Ann Lve,Off,Grave,Grave,Off,Off,Off,Day,Off,Off,Off,Off,Off
+43220,Morning,Ann Lve,Off,Grave,Grave,Off,Off,Off,Day,Day,Off,Day8,D,D
+43221,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Day,Day,Off,Day8,D,D
+43222,Off,Morning,Morning,Off,Grave,Grave,Night,Off,Off,Day,Day,Day8,D,D
+43223,Off,Off,Morning,Off,Off,Grave,Night,Night,Off,Day,Day,Day8,D,D
+43224,Evening,Off,Morning,Morning,Off,Grave,Night,Night,Off,Off,Day,Day8,D,D
+43225,Evening,Off,Morning,Morning,Off,Grave,Night,Night,Off,Off,Day,,,
+43226,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Off,Off,Off,,,
+43227,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Off,Off,,,
+43228,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Night,Off,,,
+43229,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,,,
+43230,Off,Evening,Evening,Off,Morning,Morning,Day,Off,Off,Night,Night,,,
+43231,Off,Off,Evening,Off,Off,Morning,Day,Night,Off,Night,Night,,,
+43232,Evening,Off,Evening,Morning,Off,Morning,Day,Night,Off,Off,Night,,,
+43233,Evening,Off,Evening,Morning,Off,Morning,Day,Night,Off,Off,Night,,,
+43234,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,Off,,,
+43235,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Off,Off,,,
+43236,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Night,Off,,,
+43237,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,,,
+43238,Off,Evening,Evening,Off,Morning,Morning,Day,Off,Off,Night,Night,,,
+43239,Off,Off,Evening,Off,Off,Morning,Day,Night,Off,Night,Night,,,
+43240,Grave,Off,Evening,Evening,Off,Morning,Day,Night,Off,Off,Night,,,
+43241,Grave,Off,Evening,Evening,Off,Morning,Day,Night,Off,Off,Night,,,
+43242,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Day,Off,Off,,,
+43243,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Off,Off,,,
+43244,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Day,Off,,,
+43245,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Day,Day,Off,,,
+43246,Off,Grave,Grave,Off,Evening,Evening,Night,Off,Off,Day,Day,,,
+43247,Off,Off,Grave,Off,Off,Evening,Night,Night,Off,Day,Day,,,
+43248,Grave,Off,Grave,Evening,Off,Evening,Night,Night,Off,Off,Day,,,
+43249,Grave,Off,Grave,Evening,Off,Evening,Night,Night,Off,Off,Day,,,
+43250,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Day,Off,Off,,,
+43251,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Off,Off,,,
+43252,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Day,Off,,,
+43253,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Day,Day,Off,,,
+43254,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Day,,,
+43255,Off,Off,Grave,Off,Off,Evening,Night,Night,Off,Day,Day,,,
+43256,Morning,Off,Grave,Grave,Off,Evening,Night,Night,Off,Off,Day,,,
+43257,Morning,Off,Grave,Grave,Off,Evening,Night,Night,Off,Off,Day,,,
+43258,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,Off,,,
+43259,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,,,
+43260,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Night,Off,,,
+43261,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,,,
+43262,Off,Morning,Morning,Off,Grave,Grave,Day,Off,Off,Night,Night,,,
+43263,Off,Off,Morning,Off,Off,Grave,Day,Night,Off,Night,Night,,,
+43264,Morning,Off,Morning,Grave,Off,Grave,Day,Night,Off,Off,Night,,,
+43265,Morning,Off,Morning,Grave,Off,Grave,Day,Night,Off,Off,Night,,,
+43266,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,Off,,,
+43267,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,,,
+43268,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,,,
+43269,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,,,
+43270,Off,Morning,Morning,Off,Grave,Grave,Day,Off,Off,Night,Night,,,
+43271,Off,Off,Morning,Off,Off,Grave,Day,Night,Off,Night,Night,,,
+43272,Evening,Off,Morning,Morning,Off,Grave,Day,Night,Off,Off,Night,,,
+43273,Evening,Off,Morning,Morning,Off,Grave,Day,Night,Off,Off,Night,,,
+43274,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,,,
+43275,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Off,Off,,,
+43276,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Day,Off,,,
+43277,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Day,Day,Off,,,
+43278,Off,Evening,Evening,Off,Morning,Morning,Night,Off,Off,Day,Day,,,
+43279,Off,Off,Evening,Off,Off,Morning,Night,Night,Off,Day,Day,,,
+43280,Evening,Off,Evening,Morning,Off,Morning,Night,Night,Off,Off,Day,,,
+43281,Evening,Off,Evening,Morning,Off,Morning,Night,Night,Off,Off,Day,,,
+43282,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,,,
+43283,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Off,Off,,,
+43284,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Day,Off,,,
+43285,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Day,Day,Off,,,
+43286,Off,Evening,Evening,Off,Morning,Morning,Night,Off,Off,Day,Day,,,
+43287,Off,Off,Evening,Off,Off,Morning,Night,Night,Off,Day,Day,,,
+43288,Grave,Off,Evening,Evening,Off,Morning,Night,Night,Off,Off,Day,,,
+43289,Grave,Off,Evening,Evening,Off,Morning,Night,Night,Off,Off,Day,,,
+43290,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,Off,,,
+43291,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Off,Off,,,
+43292,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Night,Off,,,
+43293,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,,,
+43294,Off,Grave,Grave,Off,Evening,Evening,Day,Off,Off,Night,Night,,,
+43295,Off,Off,Grave,Off,Off,Evening,Day,Off,Off,Night,Night,,,
+43296,Grave,Off,Grave,Evening,Off,Evening,Day,Night,Off,Off,Night,,,
+43297,Grave,Off,Grave,Evening,Off,Evening,Day,Night,Off,Off,Night,,,
+43298,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,Off,,,
+43299,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Off,Off,,,
+43300,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Night,Off,,,
+43301,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,,,
+43302,Off,Grave,Grave,Off,Evening,Evening,Day,Off,Off,Night,Night,,,
+43303,Off,Off,Grave,Off,Off,Evening,Day,Night,Off,Night,Night,,,
+43304,Morning,Off,Grave,Grave,Off,Evening,Day,Night,Off,Off,Night,,,
+43305,Morning,Off,Grave,Grave,Off,Evening,Day,Night,Off,Off,Night,,,
+43306,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Day,Off,Off,,,
+43307,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Off,Off,,,
+43308,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Day,Off,,,
+43309,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Day,Day,Off,,,
+43310,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Day,,,
+43311,Off,Off,Morning,Off,Off,Grave,Night,Night,Off,Day,Day,,,
+43312,Morning,Off,Morning,Grave,Off,Grave,Night,Night,Off,Off,Day,,,
+43313,Morning,Off,Morning,Grave,Off,Grave,Night,Night,Off,Off,Day,,,
+43314,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Day,Off,Off,,,
+43315,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Off,Off,,,
+43316,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Day,Off,,,
+43317,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Day,Day,Off,,,
+43318,Off,Morning,Morning,Off,Grave,Grave,Night,Off,Off,Day,Day,,,
+43319,Off,Off,Morning,Off,Off,Grave,Night,Night,Off,Day,Day,,,
+43320,Evening,Off,Morning,Morning,Off,Grave,Night,Night,Off,Off,Day,,,
+43321,Evening,Off,Morning,Morning,Off,Grave,Night,Night,Off,Off,Day,,,
+43322,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,Off,,,
+43323,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Off,Off,,,
+43324,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Off,Off,,,
+43325,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,,,
+43326,Off,Evening,Evening,Off,Morning,Morning,Day,Off,Off,Night,Night,,,
+43327,Off,Off,Evening,Off,Off,Morning,Day,Night,Off,Night,Night,,,
+43328,Evening,Off,Evening,Morning,Off,Morning,Day,Night,Off,Off,Night,,,
+43329,Evening,Off,Evening,Morning,Off,Morning,Day,Night,Off,Off,Night,,,
+43330,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,Off,,,
+43331,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Off,Off,,,
+43332,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Night,Off,,,
+43333,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,,,
+43334,Off,Evening,Evening,Off,Morning,Morning,Day,Off,Off,Night,Night,,,
+43335,Off,Off,Evening,Off,Off,Morning,Day,Night,Off,Night,Night,,,
+43336,Grave,Off,Evening,Evening,Off,Morning,Day,Night,Off,Off,Night,,,
+43337,Grave,Off,Evening,Evening,Off,Morning,Day,Night,Off,Off,Night,,,
+43338,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Day,Off,Off,,,
+43339,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Off,Off,,,
+43340,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Day,Off,,,
+43341,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Day,Day,Off,,,
+43342,Off,Grave,Grave,Off,Evening,Evening,Night,Off,Off,Day,Day,,,
+43343,Off,Off,Grave,Off,Off,Evening,Night,Night,Off,Day,Day,,,
+43344,Grave,Off,Grave,Evening,Off,Evening,Night,Night,Off,Off,Day,,,
+43345,Grave,Off,Grave,Evening,Off,Evening,Night,Night,Off,Off,Day,,,
+43346,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Day,Off,Off,,,
+43347,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Off,Off,,,
+43348,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Day,Off,,,
+43349,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Day,Day,Off,,,
+43350,Off,Grave,Grave,Off,Evening,Evening,Night,Off,Off,Day,Day,,,
+43351,Off,Off,Grave,Off,Off,Evening,Night,Off,Off,Day,Day,,,
+43352,Morning,Off,Grave,Grave,Off,Evening,Night,Night,Off,Off,Day,,,
+43353,Morning,Off,Grave,Grave,Off,Evening,Night,Night,Off,Off,Day,,,
+43354,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,Off,,,
+43355,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,,,
+43356,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Night,Off,,,
+43357,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,,,
+43358,Off,Morning,Morning,Off,Grave,Grave,Day,Off,Off,Night,Night,,,
+43359,Off,Off,Morning,Off,Off,Grave,Day,Night,Off,Night,Night,,,
+43360,Morning,Off,Morning,Grave,Off,Grave,Day,Night,Off,Off,Night,,,
+43361,Morning,Off,Morning,Grave,Off,Grave,Day,Night,Off,Off,Night,,,
+43362,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,Off,,,
+43363,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,,,
+43364,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Night,Off,,,
+43365,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,,,
+43366,Off,Morning,Morning,Off,Grave,Grave,Day,Off,Off,Night,Off,,,
+43367,Off,Off,Morning,Off,Off,Grave,Day,Night,Off,Night,Night,,,
+43368,Evening,Off,Morning,Morning,Off,Grave,Day,Night,Off,Off,Night,,,
+43369,Evening,Off,Morning,Morning,Off,Grave,Day,Night,Off,Off,Night,,,
+43370,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,,,
+43371,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Off,Off,,,
+43372,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Day,Off,,,
+43373,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Day,Day,Off,,,
+43374,Off,Evening,Evening,Off,Morning,Morning,Night,Off,Off,Day,Day,,,
+43375,Off,Off,Evening,Off,Off,Morning,Night,Night,Off,Day,Day,,,
+43376,Evening,Off,Evening,Morning,Off,Morning,Night,Night,Off,Off,Day,,,
+43377,Evening,Off,Evening,Morning,Off,Morning,Night,Night,Off,Off,Day,,,
+43378,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,,,
+43379,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Off,Off,,,
+43380,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Day,Off,,,
+43381,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Day,Day,Off,,,
+43382,Off,Evening,Evening,Off,Morning,Morning,Night,Off,Off,Day,Day,,,
+43383,Off,Off,Evening,Off,Off,Morning,Night,Night,Off,Day,Day,,,
+43384,Grave,Off,Evening,Evening,Off,Morning,Night,Night,Off,Off,Day,,,
+43385,Grave,Off,Evening,Evening,Off,Morning,Night,Night,Off,Off,Day,,,
+43386,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,Off,,,
+43387,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Off,Off,,,
+43388,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Night,Off,,,
+43389,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,,,
+43390,Off,Grave,Grave,Off,Evening,Evening,Day,Off,Off,Night,Night,,,
+43391,Off,Off,Grave,Off,Off,Evening,Day,Night,Off,Night,Night,,,
+43392,Grave,Off,Grave,Evening,Off,Evening,Day,Night,Off,Off,Night,,,
+43393,Grave,Off,Grave,Evening,Off,Evening,Day,Night,Off,Off,Night,,,
+43394,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Off,Off,Off,,,
+43395,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Off,Off,,,
+43396,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Night,Off,,,
+43397,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,,,
+43398,Off,Grave,Grave,Off,Evening,Evening,Day,Off,Off,Night,Night,,,
+43399,Off,Off,Grave,Off,Off,Evening,Day,Night,Off,Night,Night,,,
+43400,Morning,Off,Grave,Grave,Off,Evening,Day,Night,Off,Off,Night,,,
+43401,Morning,Off,Grave,Grave,Off,Evening,Day,Night,Off,Off,Night,,,
+43402,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Day,Off,Off,,,
+43403,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Off,Off,,,
+43404,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Day,Off,,,
+43405,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Day,Day,Off,,,
+43406,Off,Morning,Morning,Off,Grave,Grave,Night,Off,Off,Day,Day,,,
+43407,Off,Off,Morning,Off,Off,Grave,Night,Night,Off,Day,Day,,,
+43408,Morning,Off,Morning,Grave,Off,Grave,Night,Night,Off,Off,Day,,,
+43409,Morning,Off,Morning,Grave,Off,Grave,Night,Night,Off,Off,Day,,,
+43410,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Day,Off,Off,,,
+43411,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Off,Off,,,
+43412,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Day,Off,,,
+43413,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Day,Day,Off,,,
+43414,Off,Morning,Morning,Off,Grave,Grave,Night,Off,Off,Day,Day,,,
+43415,Off,Off,Morning,Off,Off,Grave,Night,Night,Off,Day,Day,,,
+43416,Evening,Off,Morning,Morning,Off,Grave,Night,Night,Off,Off,Day,,,
+43417,Evening,Off,Morning,Morning,Off,Grave,Night,Night,Off,Off,Day,,,
+43418,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,Off,,,
+43419,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Off,Off,,,
+43420,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Night,Off,,,
+43421,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,,,
+43422,Off,Evening,Evening,Off,Morning,Morning,Day,Off,Off,Night,Off,,,
+43423,Off,Off,Evening,Off,Off,Morning,Day,Night,Off,Night,Night,,,
+43424,Evening,Off,Evening,Morning,Off,Morning,Day,Night,Off,Off,Night,,,
+43425,Evening,Off,Evening,Morning,Off,Morning,Day,Night,Off,Off,Night,,,
+43426,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,Off,,,
+43427,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Off,Off,,,
+43428,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Night,Off,,,
+43429,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,,,
+43430,Off,Evening,Evening,Off,Morning,Morning,Day,Off,Off,Night,Night,,,
+43431,Off,Off,Evening,Off,Off,Morning,Day,Night,Off,Night,Night,,,
+43432,Grave,Off,Evening,Evening,Off,Morning,Day,Night,Off,Off,Night,,,
+43433,Grave,Off,Evening,Evening,Off,Morning,Day,Night,Off,Off,Night,,,
+43434,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Day,Off,Off,,,
+43435,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Off,Off,,,
+43436,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Day,Off,,,
+43437,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Day,Day,Off,,,
+43438,Off,Grave,Grave,Off,Evening,Evening,Night,Off,Off,Day,Day,,,
+43439,Off,Off,Grave,Off,Off,Evening,Night,Night,Off,Day,Day,,,
+43440,Grave,Off,Grave,Evening,Off,Evening,Night,Night,Off,Off,Day,,,
+43441,Grave,Off,Grave,Evening,Off,Evening,Night,Night,Off,Off,Day,,,
+43442,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Day,Off,Off,,,
+43443,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Off,Off,,,
+43444,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Day,Off,,,
+43445,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Day,Day,Off,,,
+43446,Off,Grave,Grave,Off,Evening,Evening,Night,Off,Off,Day,Day,,,
+43447,Off,Off,Grave,Off,Off,Evening,Night,Night,Off,Day,Day,,,
+43448,Morning,Off,Grave,Grave,Off,Evening,Night,Night,Off,Off,Day,,,
+43449,Morning,Off,Grave,Grave,Off,Evening,Night,Night,Off,Off,Day,,,
+43450,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Off,Off,Off,,,
+43451,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,,,
+43452,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Night,Off,,,
+43453,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,,,
+43454,Off,Morning,Morning,Off,Grave,Grave,Day,Off,Off,Night,Night,,,
+43455,Off,Off,Morning,Off,Off,Grave,Day,Night,Off,Night,Night,,,
+43456,Morning,Off,Morning,Grave,Off,Grave,Day,Night,Off,Off,Night,,,
+43457,Morning,Off,Morning,Grave,Off,Grave,Day,Night,Off,Off,Night,,,
+43458,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,Off,,,
+43459,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,,,
+43460,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Night,Off,,,
+43461,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,,,
+43462,Off,Morning,Morning,Off,Grave,Grave,Day,Off,Off,Night,Night,,,
+43463,Off,Off,Morning,Off,Off,Grave,Day,Night,Off,Night,Night,,,
+43464,Evening,Off,Morning,Morning,Off,Grave,Day,Night,Off,Off,Night,,,
+43465,Evening,Off,Morning,Morning,Off,Grave,Day,Night,Off,Off,Night,,,
+43466,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,,,
+43467,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Off,Off,,,
+43468,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Day,Off,,,
+43469,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Day,Day,Off,,,
+43470,Off,Evening,Evening,Off,Morning,Morning,Night,Off,Off,Day,Day,,,
+43471,Off,Off,Evening,Off,Off,Morning,Night,Night,Off,Day,Day,,,
+43472,Evening,Off,Evening,Morning,Off,Morning,Night,Night,Off,Off,Day,,,
+43473,Evening,Off,Evening,Morning,Off,Morning,Night,Night,Off,Off,Day,,,
+43474,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,,,
+43475,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Off,Off,,,
+43476,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Day,Off,,,
+43477,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Day,Day,Off,,,
+43478,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Day,,,
+43479,Off,Off,Evening,Off,Off,Morning,Night,Night,Off,Day,Day,,,
+43480,Grave,Off,Evening,Evening,Off,Morning,Night,Night,Off,Off,Day,,,
+43481,Grave,Off,Evening,Evening,Off,Morning,Night,Night,Off,Off,Day,,,
+43482,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,Off,,,
+43483,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Off,Off,,,
+43484,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Night,Off,,,
+43485,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,,,
+43486,Off,Grave,Grave,Off,Evening,Evening,Day,Off,Off,Night,Night,,,
+43487,Off,Off,Grave,Off,Off,Evening,Day,Night,Off,Night,Night,,,
+43488,Grave,Off,Grave,Evening,Off,Evening,Day,Night,Off,Off,Night,,,
+43489,Grave,Off,Grave,Evening,Off,Evening,Day,Night,Off,Off,Night,,,
+43490,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,Off,,,
+43491,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Off,Off,,,
+43492,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Off,Off,,,
+43493,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,,,
+43494,Off,Grave,Grave,Off,Evening,Evening,Day,Off,Off,Night,Night,,,
+43495,Off,Off,Grave,Off,Off,Evening,Day,Night,Off,Night,Night,,,
+43496,Morning,Off,Grave,Grave,Off,Evening,Day,Night,Off,Off,Night,,,
+43497,Morning,Off,Grave,Grave,Off,Evening,Day,Night,Off,Off,Night,,,
+43498,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Day,Off,Off,,,
+43499,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Off,Off,,,
+43500,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Day,Off,,,
+43501,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Day,Day,Off,,,
+43502,Off,Morning,Morning,Off,Grave,Grave,Night,Off,Off,Day,Day,,,
+43503,Off,Off,Morning,Off,Off,Grave,Night,Night,Off,Day,Day,,,
+43504,Morning,Off,Morning,Grave,Off,Grave,Night,Night,Off,Off,Day,,,
+43505,Morning,Off,Morning,Grave,Off,Grave,Night,Night,Off,Off,Day,,,
+43506,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Day,Off,Off,,,
+43507,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Off,Off,,,
+43508,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Day,Off,,,
+43509,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Day,Day,Off,,,
+43510,Off,Morning,Morning,Off,Grave,Grave,Night,Off,Off,Day,Day,,,
+43511,Off,Off,Morning,Off,Off,Grave,Night,Night,Off,Day,Day,,,
+43512,Evening,Off,Morning,Morning,Off,Grave,Night,Night,Off,Off,Day,,,
+43513,Evening,Off,Morning,Morning,Off,Grave,Night,Night,Off,Off,Day,,,
+43514,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,Off,,,
+43515,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Off,Off,,,
+43516,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Night,Off,,,
+43517,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,,,
+43518,Off,Evening,Evening,Off,Morning,Morning,Day,Off,Off,Night,Night,,,
+43519,Off,Off,Evening,Off,Off,Morning,Day,Off,Off,Night,Night,,,
+43520,Evening,Off,Evening,Morning,Off,Morning,Day,Night,Off,Off,Night,,,
+43521,Evening,Off,Evening,Morning,Off,Morning,Day,Night,Off,Off,Night,,,
+43522,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,Off,,,
+43523,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Off,Off,,,
+43524,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Night,Off,,,
+43525,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,,,
+43526,Off,Evening,Evening,Off,Morning,Morning,Day,Off,Off,Night,Night,,,
+43527,Off,Off,Evening,Off,Off,Morning,Day,Night,Off,Night,Night,,,
+43528,Grave,Off,Evening,Evening,Off,Morning,Day,Night,Off,Off,Night,,,
+43529,Grave,Off,Evening,Evening,Off,Morning,Day,Night,Off,Off,Night,,,
+43530,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Day,Off,Off,,,
+43531,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Off,Off,,,
+43532,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Day,Off,,,
+43533,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Day,Day,Off,,,
+43534,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Day,,,
+43535,Off,Off,Grave,Off,Off,Evening,Night,Night,Off,Day,Day,,,
+43536,Grave,Off,Grave,Evening,Off,Evening,Night,Night,Off,Off,Day,,,
+43537,Grave,Off,Grave,Evening,Off,Evening,Night,Night,Off,Off,Day,,,
+43538,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Day,Off,Off,,,
+43539,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Off,Off,,,
+43540,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Day,Off,,,
+43541,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Day,Day,Off,,,
+43542,Off,Grave,Grave,Off,Evening,Evening,Night,Off,Off,Day,Day,,,
+43543,Off,Off,Grave,Off,Off,Evening,Night,Night,Off,Day,Day,,,
+43544,Morning,Off,Grave,Grave,Off,Evening,Night,Night,Off,Off,Day,,,
+43545,Morning,Off,Grave,Grave,Off,Evening,Night,Night,Off,Off,Day,,,
+43546,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,Off,,,
+43547,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,,,
+43548,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,,,
+43549,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,,,
+43550,Off,Morning,Morning,Off,Grave,Grave,Day,Off,Off,Night,Night,,,
+43551,Off,Off,Morning,Off,Off,Grave,Day,Night,Off,Night,Night,,,
+43552,Morning,Off,Morning,Grave,Off,Grave,Day,Night,Off,Off,Night,,,
+43553,Morning,Off,Morning,Grave,Off,Grave,Day,Night,Off,Off,Night,,,
+43554,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,Off,,,
+43555,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,,,
+43556,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Night,Off,,,
+43557,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,,,
+43558,Off,Morning,Morning,Off,Grave,Grave,Day,Off,Off,Night,Night,,,
+43559,Off,Off,Morning,Off,Off,Grave,Day,Night,Off,Night,Night,,,
+43560,Evening,Off,Morning,Morning,Off,Grave,Day,Night,Off,Off,Night,,,
+43561,Evening,Off,Morning,Morning,Off,Grave,Day,Night,Off,Off,Night,,,
+43562,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,,,
+43563,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Off,Off,,,
+43564,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Day,Off,,,
+43565,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Day,Day,Off,,,
+43566,Off,Evening,Evening,Off,Morning,Morning,Night,Off,Off,Day,Day,,,
+43567,Off,Off,Evening,Off,Off,Morning,Night,Night,Off,Day,Day,,,
+43568,Evening,Off,Evening,Morning,Off,Morning,Night,Night,Off,Off,Day,,,
+43569,Evening,Off,Evening,Morning,Off,Morning,Night,Night,Off,Off,Day,,,
+43570,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,,,
+43571,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Off,Off,,,
+43572,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Day,Off,,,
+43573,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Day,Day,Off,,,
+43574,Off,Evening,Evening,Off,Morning,Morning,Night,Off,Off,Day,Day,,,
+43575,Off,Off,Evening,Off,Off,Morning,Night,Off,Off,Day,Day,,,
+43576,Grave,Off,Evening,Evening,Off,Morning,Night,Night,Off,Off,Day,,,
+43577,Grave,Off,Evening,Evening,Off,Morning,Night,Night,Off,Off,Day,,,
+43578,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,Off,,,
+43579,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Off,Off,,,
+43580,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Night,Off,,,
+43581,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,,,
+43582,Off,Grave,Grave,Off,Evening,Evening,Day,Off,Off,Night,Night,,,
+43583,Off,Off,Grave,Off,Off,Evening,Day,Night,Off,Night,Night,,,
+43584,Grave,Off,Grave,Evening,Off,Evening,Day,Night,Off,Off,Night,,,
+43585,Grave,Off,Grave,Evening,Off,Evening,Day,Night,Off,Off,Night,,,
+43586,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,Off,,,
+43587,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Off,Off,,,
+43588,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Night,Off,,,
+43589,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,,,
+43590,Off,Grave,Grave,Off,Evening,Evening,Day,Off,Off,Night,Off,,,
+43591,Off,Off,Grave,Off,Off,Evening,Day,Night,Off,Night,Night,,,
+43592,Morning,Off,Grave,Grave,Off,Evening,Day,Night,Off,Off,Night,,,
+43593,Morning,Off,Grave,Grave,Off,Evening,Day,Night,Off,Off,Night,,,
+43594,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Day,Off,Off,,,
+43595,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Off,Off,,,
+43596,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Day,Off,,,
+43597,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Day,Day,Off,,,
+43598,Off,Morning,Morning,Off,Grave,Grave,Night,Off,Off,Day,Day,,,
+43599,Off,Off,Morning,Off,Off,Grave,Night,Night,Off,Day,Day,,,
+43600,Morning,Off,Morning,Grave,Off,Grave,Night,Night,Off,Off,Day,,,
+43601,Morning,Off,Morning,Grave,Off,Grave,Night,Night,Off,Off,Day,,,
+43602,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Day,Off,Off,,,
+43603,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Off,Off,,,
+43604,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Day,Off,,,
+43605,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Day,Day,Off,,,
+43606,Off,Morning,Morning,Off,Grave,Grave,Night,Off,Off,Day,Day,,,
+43607,Off,Off,Morning,Off,Off,Grave,Night,Night,Off,Day,Day,,,
+43608,Evening,Off,Morning,Morning,Off,Grave,Night,Night,Off,Off,Day,,,
+43609,Evening,Off,Morning,Morning,Off,Grave,Night,Night,Off,Off,Day,,,
+43610,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,Off,,,
+43611,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Off,Off,,,
+43612,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Night,Off,,,
+43613,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,,,
+43614,Off,Evening,Evening,Off,Morning,Morning,Day,Off,Off,Night,Night,,,
+43615,Off,Off,Evening,Off,Off,Morning,Day,Night,Off,Night,Night,,,
+43616,Evening,Off,Evening,Morning,Off,Morning,Day,Night,Off,Off,Night,,,
+43617,Evening,Off,Evening,Morning,Off,Morning,Day,Night,Off,Off,Night,,,
+43618,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Off,Off,Off,,,
+43619,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Off,Off,,,
+43620,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Night,Night,Off,,,
+43621,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Night,Off,,,
+43622,Off,Evening,Evening,Off,Morning,Morning,Day,Off,Off,Night,Night,,,
+43623,Off,Off,Evening,Off,Off,Morning,Day,Night,Off,Night,Night,,,
+43624,Grave,Off,Evening,Evening,Off,Morning,Day,Night,Off,Off,Night,,,
+43625,Grave,Off,Evening,Evening,Off,Morning,Day,Night,Off,Off,Night,,,
+43626,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Day,Off,Off,,,
+43627,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Off,Off,,,
+43628,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Day,Off,,,
+43629,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Day,Day,Off,,,
+43630,Off,Grave,Grave,Off,Evening,Evening,Night,Off,Off,Day,Day,,,
+43631,Off,Off,Grave,Off,Off,Evening,Night,Night,Off,Day,Day,,,
+43632,Grave,Off,Grave,Evening,Off,Evening,Night,Night,Off,Off,Day,,,
+43633,Grave,Off,Grave,Evening,Off,Evening,Night,Night,Off,Off,Day,,,
+43634,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Day,Off,Off,,,
+43635,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Off,Off,,,
+43636,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Day,Day,Off,,,
+43637,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Day,Day,Off,,,
+43638,Off,Grave,Grave,Off,Evening,Evening,Night,Off,Off,Day,Day,,,
+43639,Off,Off,Grave,Off,Off,Evening,Night,Night,Off,Day,Day,,,
+43640,Morning,Off,Grave,Grave,Off,Evening,Night,Night,Off,Off,Day,,,
+43641,Morning,Off,Grave,Grave,Off,Evening,Night,Night,Off,Off,Day,,,
+43642,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,Off,,,
+43643,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,,,
+43644,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Night,Off,,,
+43645,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,,,
+43646,Off,Morning,Morning,Off,Grave,Grave,Day,Off,Off,Night,Off,,,
+43647,Off,Off,Morning,Off,Off,Grave,Day,Night,Off,Night,Night,,,
+43648,Morning,Off,Morning,Grave,Off,Grave,Day,Night,Off,Off,Night,,,
+43649,Morning,Off,Morning,Grave,Off,Grave,Day,Night,Off,Off,Night,,,
+43650,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,Off,,,
+43651,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Off,Off,,,
+43652,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Night,Night,Off,,,
+43653,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Night,Off,,,
+43654,Off,Morning,Morning,Off,Grave,Grave,Day,Off,Off,Night,Night,,,
+43655,Off,Off,Morning,Off,Off,Grave,Day,Night,Off,Night,Night,,,
+43656,Evening,Off,Morning,Morning,Off,Grave,Day,Night,Off,Off,Night,,,
+43657,Evening,Off,Morning,Morning,Off,Grave,Day,Night,Off,Off,Night,,,
+43658,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,,,
+43659,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Off,Off,,,
+43660,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Day,Off,,,
+43661,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Day,Day,Off,,,
+43662,Off,Evening,Evening,Off,Morning,Morning,Night,Off,Off,Day,Day,,,
+43663,Off,Off,Evening,Off,Off,Morning,Night,Night,Off,Day,Day,,,
+43664,Evening,Off,Evening,Morning,Off,Morning,Night,Night,Off,Off,Day,,,
+43665,Evening,Off,Evening,Morning,Off,Morning,Night,Night,Off,Off,Day,,,
+43666,Evening,Evening,Off,Morning,Morning,Off,Off,Night,Day,Off,Off,,,
+43667,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Off,Off,,,
+43668,Evening,Evening,Off,Morning,Morning,Off,Off,Off,Day,Day,Off,,,
+43669,Off,Evening,Evening,Off,Morning,Morning,Off,Off,Day,Day,Off,,,
+43670,Off,Evening,Evening,Off,Morning,Morning,Night,Off,Off,Day,Day,,,
+43671,Off,Off,Evening,Off,Off,Morning,Night,Night,Off,Day,Day,,,
+43672,Grave,Off,Evening,Evening,Off,Morning,Night,Night,Off,Off,Day,,,
+43673,Grave,Off,Evening,Evening,Off,Morning,Night,Night,Off,Off,Day,,,
+43674,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Off,Off,Off,,,
+43675,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Off,Off,,,
+43676,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Night,Off,,,
+43677,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,,,
+43678,Off,Grave,Grave,Off,Evening,Evening,Day,Off,Off,Night,Night,,,
+43679,Off,Off,Grave,Off,Off,Evening,Day,Night,Off,Night,Night,,,
+43680,Grave,Off,Grave,Evening,Off,Evening,Day,Night,Off,Off,Night,,,
+43681,Grave,Off,Grave,Evening,Off,Evening,Day,Night,Off,Off,Night,,,
+43682,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,Off,,,
+43683,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Off,Off,,,
+43684,Grave,Grave,Off,Evening,Evening,Off,Off,Off,Night,Night,Off,,,
+43685,Off,Grave,Grave,Off,Evening,Evening,Off,Off,Night,Night,Off,,,
+43686,Off,Grave,Grave,Off,Evening,Evening,Day,Off,Off,Night,Night,,,
+43687,Off,Off,Grave,Off,Off,Evening,Day,Night,Off,Night,Night,,,
+43688,Morning,Off,Grave,Grave,Off,Evening,Day,Night,Off,Off,Night,,,
+43689,Morning,Off,Grave,Grave,Off,Evening,Day,Night,Off,Off,Night,,,
+43690,Morning,Morning,Off,Grave,Grave,Off,Off,Night,Day,Off,Off,,,
+43691,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Off,Off,,,
+43692,Morning,Morning,Off,Grave,Grave,Off,Off,Off,Day,Day,Off,,,
+43693,Off,Morning,Morning,Off,Grave,Grave,Off,Off,Day,Day,Off,,,
+43694,Off,Morning,Morning,Off,Grave,Grave,Night,Off,Off,Day,Day,,,
+43695,Off,Off,Morning,Off,Off,Grave,Night,Night,Off,Day,Day,,,
+43696,Morning,Off,Morning,Grave,Off,Grave,Night,Night,Off,Off,Day,,,
+43697,Morning,Off,Morning,Grave,Off,Grave,Night,,Off,Off,Day,,,
