@@ -43,11 +43,11 @@ WORKSHEET = "example_roster" #The Excel Worksheet that contains the roster.
 ROSTERNAME = "roster" #Defines the base naming convention of the output files. e.g. roster = rosterYYYYMMDD.xlsx
 MAILSERVER = "mail.example.com"
 FROMEMAIL = "example@example.com"
-MAILRECIPS = {'':''}
+MAILRECIPS = {'':['']}
 # MAILRECIPS - Dictionary of Member headers of roster to check against
 # Key: Column header of staff member (e.g. 'Pettles')
-# Value: Email address to send result to for that member (e.g. pettles@github.com)
-# e.g. {'Pettles':'pettles@github.com','Kevin':'kevin@example.com'}
+# Value: An array of email addresses to send result to for that member (e.g. ['pettles@github.com'])
+# e.g. {'Pettles':['pettles@github.com'],'Kevin':['kevin@example.com','kevin@somewhereelse.com']}
 #/////////////////////////////////////////////
 
 class Roster:
@@ -92,9 +92,7 @@ class Roster:
 
 					self._log.info("Emailing latest versions..")
 					currentRoster = roster.Roster(self._csvfull)
-					self._log.info("First done")
 					prevRoster = roster.Roster(self._locateLastFile(self._csvpath, ROSTERNAME, self._csvxtn))
-					self._log.info("Second done")
 					today = datetime.datetime.now().strftime("%d/%m/%Y")
 					fortnite = (datetime.datetime.now() + datetime.timedelta(days=14)).strftime("%d/%m/%Y")
 					self._log.info("Resources allocated, looping...")
@@ -102,7 +100,7 @@ class Roster:
 						if currentRoster.showMemberPeriod(key,today,fortnite) == prevRoster.showMemberPeriod(key,today,fortnite):
 							self._log.info("{0} is the same in both rosters between {1} and {2}. Skipping...".format(key, today, fortnite))
 						else:
-							self._log.info("{0} is different between {1} and {2}. Emailing to {3}...".format(key, today, fortnite,self._recips[key]))
+							self._log.info("{0} is different between {1} and {2}. Emailing to {3}...".format(key, today, fortnite,str(self._recips[key])))
 							self._email(key,self._recips[key],currentRoster.showMemberPeriod(key,today,fortnite),prevRoster.showMemberPeriod(key,today,fortnite))
 			else:
 				self._log.info("File '" + self._name + "' already exists!")
@@ -185,14 +183,14 @@ Also, if you want this sent to a different email address, let me know.
 
 <br><br>With love ('n' stuff),
 <br>Me.""".format(name)
-		
+
 		files = [self._xlsxfull,self._csvfull]
 
 		try:
-			self._log.info("Sending email to '" + address + "'...")
+			self._log.info("Sending email to '" + str(address) + "'...")
 			msg = MIMEMultipart()
 			msg['From'] = send_from
-			msg['To'] = address
+			msg['To'] = ", ".join(address)
 			msg['Subject'] = "Latest Roster " + datetime.datetime.now().strftime("%Y%m%d")
 
 			msg.attach(MIMEText(body, 'html'))
@@ -224,7 +222,7 @@ Also, if you want this sent to a different email address, let me know.
 
 		except Exception as e:
 			self._log.error("Unable to open " + path + " " + str(e))
-	
+
 	###################################
 	# Attempts to locate the last file following the requested naming convention
 	###################################
